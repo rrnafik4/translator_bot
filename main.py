@@ -3,6 +3,7 @@ from telebot import types
 import telebot
 import os
 import gtts
+# https://t.me/new_bot_t_bot
 bot=telebot.TeleBot('5870590773:AAEeJuLLMGWucFPMPz0XaM7k0zhTP_qpZf8')
 lang={
     'ru': 'russia',
